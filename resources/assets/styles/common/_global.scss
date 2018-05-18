@@ -1,0 +1,17 @@
+/*
+ * START MOVE WP ADMIN BAR TO FOOTER
+ */
+#wpadminbar {
+  bottom: 0;
+  top: inherit;
+}
+
+#wpadminbar .menupop .ab-sub-wrapper,
+#wpadminbar .shortlink-input {
+  bottom: 32px;
+}
+
+/*
+ * START MOVE WP ADMIN BAR TO FOOTER
+ */
+
