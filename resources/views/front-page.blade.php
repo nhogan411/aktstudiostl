@@ -11,7 +11,7 @@
         </div>
 
         <div class="col-12 col-md-6 col-lg-5 order-md-2 ml-md-auto text-left">
-          <h1>WHATEVER YOU DON'T WANT</h1>
+          <h1>Whatever you don't want</h1>
 
           <p class="text-h3">Inspired by our concrete counter tops, we’ve started to use concrete more and more for custom furniture! We can create any size table top, from end tables, coffee tables to large dining tables. A variety of shapes can be achieved, as well as colors. We can also create a stencil of your logo and sand blast it onto the surface, revealing text or your company logo!</p>
 
